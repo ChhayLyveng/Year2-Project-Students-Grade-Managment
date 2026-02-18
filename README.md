@@ -1,6 +1,6 @@
 # Student Grade Management System 
 
-A robust C++ CLI application developed for a Year 2 Computer Science project. This system manages student records, academic performance, and GPA calculations using a **Doubly Linked List** for efficient data handling and **File I/O** for permanent data storage.
+A robust C++ CLI application developed for a Year 2 project. This system manages student records, academic performance, and GPA calculations using a **Doubly Linked List** for efficient data handling and **File I/O** for permanent data storage.
 
 ## Key Features
 
