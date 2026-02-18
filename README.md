@@ -36,12 +36,6 @@ $$Average = \frac{\sum (Score_i \times Credit_i)}{Total Credits}$$
 * `function.h`: The core engine containing structure definitions, memory management, and file handling.
 * `*.csv`: Database files used to store student records persistently.
 
-## Getting Started
-
-### Prerequisites
-* A C++ compiler (GCC/G++ recommended).
-* A terminal that supports ANSI colors (standard on Linux/macOS; use Windows Terminal for PC).
-
 ## Sample Menu
 
 1. Add student information
