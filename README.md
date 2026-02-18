@@ -27,8 +27,8 @@ The system calculates the average score based on specific course credits:
 
 $$Average = \frac{\sum (Score_i \times Credit_i)}{Total Credits}$$
 
-* **Year 1**: Weighted across 10 courses including Calculus, Management, and Mechanics.
-* **Year 2**: Weighted across 8 courses including Data Structures and Computer Architecture.
+* **Year 1**: Weighted across 10 courses
+* **Year 2**: Weighted across 8 courses 
 
 ## File Structure
 
